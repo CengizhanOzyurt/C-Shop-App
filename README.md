@@ -9,7 +9,7 @@
 - [Libraries and tools used](#libraries-and-tools-used)
 - [Support](#support)
 
-<img width="222" alt="Ekran Resmi 2025-01-09 00 31 13" src="https://github.com/user-attachments/assets/d29f2fc0-20cb-49aa-ba48-130033c155d7" height="400" />
+<img width="222" alt="Ekran Resmi 2025-01-09 00 31 13" src="https://github.com/user-attachments/assets/d29f2fc0-20cb-49aa-ba48-130033c155d7" witdh="200" height="400" />
 <img width="222" alt="Ekran Resmi 2025-01-09 00 36 33" src="https://github.com/user-attachments/assets/cd4cc577-ac2b-452c-a92a-a98470da1574" />
 <img width="222" alt="Ekran Resmi 2025-01-09 00 36 21" src="https://github.com/user-attachments/assets/93d00929-94ce-45fb-ace8-554f57360943" />
 <img width="222" alt="Ekran Resmi 2025-01-09 00 36 08" src="https://github.com/user-attachments/assets/4a04903f-81a1-4778-856a-422e05e055d7" />
