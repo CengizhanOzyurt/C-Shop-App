@@ -1,5 +1,14 @@
 # CShop Shopping APP
 
+### Table of Contents
+- [System Requirements](#system-requirements)
+- [Figma design guidelines for better accuracy](#figma-design-guideline-for-better-accuracy)
+- [App Navigations](#app-navigations)
+- [Project Structure](#project-structure)
+- [How you can do code formatting?](#how-you-can-do-code-formatting)
+- [How you can improve the readability of code?](#how-you-can-improve-the-readability-of-code)
+- [Libraries and tools used](#libraries-and-tools-used)
+- [Support](#support)
 
 <img width="222" alt="Ekran Resmi 2025-01-09 00 31 13" src="https://github.com/user-attachments/assets/d29f2fc0-20cb-49aa-ba48-130033c155d7" />
 <img width="222" alt="Ekran Resmi 2025-01-09 00 36 33" src="https://github.com/user-attachments/assets/cd4cc577-ac2b-452c-a92a-a98470da1574" />
