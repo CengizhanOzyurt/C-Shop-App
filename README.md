@@ -13,7 +13,8 @@ Features
 	•	Wishlist and Favorites: Save products for later with the wishlist feature.
 
 Technologies Used
-	•	Language: Swift
+	•	Language: Swift<img width="222" alt="Ekran Resmi 2025-01-09 00 31 13" src="https://github.com/user-attachments/assets/737e8b36-7c8e-4410-8bd7-8bf38ca098da" />
+
 	•	Frameworks: UIKit / SwiftUI, Combine
 	•	Backend: Firebase database for user data and order management (connected via APIs).
 	•	Tools: Xcode.
