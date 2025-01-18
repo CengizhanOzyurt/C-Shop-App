@@ -163,7 +163,7 @@ struct LoginView: View {
                         
                         HStack{
                             HStack{
-                                Button(action: {openURL(URL(string: "https://secure8.store.apple.com/shop/signIn?ssi=1AAABk43Mq-MgQbOaIvavv44CvMLIp-ojvZvwuaIhK8XuKTuwL9z0v-QAAAAYaHR0cHM6Ly93d3cuYXBwbGUuY29tL3x8AAIBfI2ra2ZypyUps9zVpr_FjmzSdbLr5W-KKR0j8tdQEEI")!)}) {
+                                Button(action: {openURL(URL(string: "https://secure8.store.apple.com/")!)}) {
                                     Text("")
                                         .frame(width: 0)
                                         .foregroundColor(.white)
@@ -182,7 +182,7 @@ struct LoginView: View {
                             }
                             .padding()
                             HStack{
-                                Button(action: {openURL(URL(string: "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fmyaccount.google.com%3Futm_source%3Daccount-marketing-page%26utm_medium%3Dgo-to-account-button%26gar%3DWzEzMywiMjM2NzM2Il0%26sl%3Dtrue&ifkv=AcMMx-e8EwxbFdvzZEojn8N4yqIZhdMeD0UE8Jecq3CeKFFUtEAgFGg2wUG191fOtP6YZH3vRvK9&service=accountsettings&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-332466211%3A1733250956137959&ddm=1")!)
+                                Button(action: {openURL(URL(string: "https://accounts.google.com/")!)
                                     
                                 }) {
                                     Text("")
@@ -203,7 +203,7 @@ struct LoginView: View {
                             }.padding()
                             
                             HStack{
-                                Button(action: {openURL(URL(string: "https://m.facebook.com/?wtsid=rdr_07Or7j5jjabJ1cA4n")!)}) {
+                                Button(action: {openURL(URL(string: "https://m.facebook.com/")!)}) {
                                     Text("")
                                         .frame(width: 0)
                                         .foregroundColor(.white)
