@@ -23,7 +23,7 @@ Check your app's UI from the AppNavigation screen of your app.
 
 ### Previews
 
-<img width="599" alt="Github Cshop1" src="https://github.com/user-attachments/assets/7b6a3d29-4560-425b-9cb0-832e6be0fddc" />
+<img width="599" alt="Github Cshop1" src="https://github.com/user-attachments/assets/7b6a3d29-4560-425b-9cb0-832e6be0fddc" heigth="200" />
 <img width="599" alt="Github cshop2" src="https://github.com/user-attachments/assets/601b1b1e-e819-416d-b70e-b27b2d711cae" />
 <img width="599" alt="github cshop3" src="https://github.com/user-attachments/assets/39001fd6-9fc1-4c01-ae3b-3a403d7bda1c" />
 <img width="599" alt="github cshop 4" src="https://github.com/user-attachments/assets/8b7b477d-97c4-4885-8e2e-c8b2507e9b5f" />
